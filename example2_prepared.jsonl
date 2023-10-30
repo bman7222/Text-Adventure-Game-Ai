@@ -1,0 +1,7 @@
+{"prompt":"You find yourself standing at the entrance to a dark and spooky cave. What would you like to do?","completion":" ['explore', 'enter', 'investigate', 'look around']"}
+{"prompt":"As you enter the cave, you see a glint of light in the distance. What would you like to do?","completion":" ['move towards the light', 'investigate the glint', 'approach the light']"}
+{"prompt":"As you approach the light, you see that it is coming from a treasure chest. What would you like to do?","completion":" ['open the chest', 'inspect the chest', 'search the chest']"}
+{"prompt":"As you open the chest, you find a key inside. What would you like to do?","completion":" ['take the key', 'leave the key', 'ignore the key']"}
+{"prompt":"You continue on through the cave and come across a deep chasm. What would you like to do?","completion":" ['jump across the chasm', 'look for another way across', 'turn back']"}
+{"prompt":"You successfully jump across the chasm and find yourself in a room filled with gold coins. What would you like to do?","completion":" ['collect the gold', 'look around the room', 'count the coins']"}
+{"prompt":"As you collect the gold, you hear a loud rumbling noise. What would you like to do?","completion":" ['investigate the noise', 'ignore the noise', 'leave the room']"}
